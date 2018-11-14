@@ -1,0 +1,7 @@
+nginx_user: strauss
+server_hostname: application.localhost
+application_folder: application
+php_fpm_socket: /run/php/php7.2-fpm.sock
+database_name: symfony
+database_user: symfony
+database_password: brazzers
